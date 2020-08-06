@@ -1,0 +1,18 @@
+{
+    "bob": {
+        "name": "Bob",
+        "surname": "Dylan"
+    },
+    "alice": {
+        "name": "Alice",
+        "surname": "Cooper"
+    },
+    "james": {
+        "name": "James",
+        "surname": "Hetfield"
+    },
+    "mykhailo": {
+        "name": "Mykhailo",
+        "surname": "Poplavskyi"
+    }
+}
